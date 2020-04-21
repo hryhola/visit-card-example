@@ -23,7 +23,7 @@ const MainSection = () => {
             ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas
             accumsan lacus vel facilisis.
           </p>
-          <ButtonLink to='/details' text='Прочитати далі' />
+          <ButtonLink to='/visit-card-example/details' text='Прочитати далі' />
         </CentredHalf>
       </section>
     </Container>

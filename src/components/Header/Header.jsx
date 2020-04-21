@@ -10,7 +10,7 @@ const Header = () => {
     <Container>
       <header>
         <div className='header-logo'>
-          <Link to='/'>
+          <Link to='/visit-card-example'>
             <img
               src='https://i.ibb.co/fq9Y9vf/icon.png'
               alt='icon'
@@ -20,8 +20,8 @@ const Header = () => {
           </Link>
         </div>
         <div className='header-links'>
-          <Link to='/contacts'>Контакти</Link>
-          <Link to='/details'>Деталі</Link>
+          <Link to='/visit-card-example/contacts'>Контакти</Link>
+          <Link to='/visit-card-example/details'>Деталі</Link>
         </div>
       </header>
     </Container>

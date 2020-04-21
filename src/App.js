@@ -13,13 +13,13 @@ const App = () => {
     <BrowserRouter>
       <Header />
       <Switch>
-        <Route exact path='/'>
+        <Route exact path='/visit-card-example'>
           <MainSection />
         </Route>
-        <Route path='/details'>
+        <Route path='/visit-card-example/details'>
           <DetailsSection />
         </Route>
-        <Route path='/contacts'>
+        <Route path='/visit-card-example/contacts'>
           <ContactsSection />
         </Route>
       </Switch>
