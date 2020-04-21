@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ef027b4a2ed7d9f59a7347b5c6f0a28",
+    "revision": "2d25ef20da9acc102637ffed957a5804",
     "url": "/visit-card-example/index.html"
   },
   {
-    "revision": "6c1e5fecddd1add78387",
+    "revision": "e41599d62ab29db60621",
     "url": "/visit-card-example/static/css/main.56af0dd8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visit-card-example/static/js/2.5f672182.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c1e5fecddd1add78387",
-    "url": "/visit-card-example/static/js/main.524e0ce2.chunk.js"
+    "revision": "e41599d62ab29db60621",
+    "url": "/visit-card-example/static/js/main.3ce01b03.chunk.js"
   },
   {
     "revision": "0b2edb92ca97ce11d52d",
