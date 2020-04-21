@@ -11,7 +11,11 @@ const Header = () => {
       <header>
         <div className='header-logo'>
           <Link to='/'>
-            <img src='./images/icon.png' alt='icon' height='40' />
+            <img
+              src='https://i.ibb.co/fq9Y9vf/icon.png'
+              alt='icon'
+              height='40'
+            />
             <span>&nbsp; Візитна картка</span>
           </Link>
         </div>

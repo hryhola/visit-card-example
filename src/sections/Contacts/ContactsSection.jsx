@@ -9,7 +9,7 @@ const ContactsSection = () => {
     <Container>
       <section id='main-section'>
         <CentredHalf>
-          <img src='./images/contacts.png' alt='details' />
+          <img src='https://i.ibb.co/GM3vtMy/contacts.png' alt='details' />
         </CentredHalf>
         <CentredHalf
           style={{ alignItems: 'baseline', justifyContent: 'center' }}

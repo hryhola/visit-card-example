@@ -21,7 +21,7 @@ Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
           />
         </CentredHalf>
         <CentredHalf>
-          <img src='./images/details.png' alt='details' />
+          <img src='https://i.ibb.co/tDx1nrw/details.png' alt='details' />
         </CentredHalf>
       </section>
     </Container>

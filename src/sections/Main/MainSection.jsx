@@ -11,7 +11,7 @@ const MainSection = () => {
     <Container>
       <section id='main-section'>
         <CentredHalf>
-          <img src='./images/main.png' alt='' />
+          <img src='https://i.ibb.co/FxzNzY4/main.png' alt='contacts' />
         </CentredHalf>
         <CentredHalf
           style={{ justifyContent: 'center', alignItems: 'baseline' }}
