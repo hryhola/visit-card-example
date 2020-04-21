@@ -1,0 +1,28 @@
+header {
+  height: 60px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-logo a {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-logo span {
+  font-size: 24px;
+}
+
+.header-links {
+  width: 640px;
+
+  display: flex;
+  flex-direction: row-reverse;
+}
+.header-links a {
+  margin: 0 10px;
+}

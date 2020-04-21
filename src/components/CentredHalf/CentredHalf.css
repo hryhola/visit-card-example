@@ -1,0 +1,9 @@
+.centred-half {
+  width: 640px;
+  height: 94vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
